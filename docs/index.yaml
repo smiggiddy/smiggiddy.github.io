@@ -3,12 +3,22 @@ entries:
   heimdall:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-20T20:56:39.848761797-04:00"
+    created: "2023-04-20T21:17:32.761198894-04:00"
     description: A Helm chart for Kubernetes
-    digest: c696e33018a04565784759d2127a7007c00640f058bd69435db49ad3038a4988
+    digest: 7cca6891332a2af99da95f2de191ea1d754e73a57b8de09b26fd9619e60a7bfb
+    name: heimdall
+    type: application
+    urls:
+    - https://smiggiddy.github.io/heimdall-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-20T21:17:32.76052823-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ebf4f8c34224ec7c17651e4dd757bcf529b41bf401a63b678b5e4946f66f6541
     name: heimdall
     type: application
     urls:
     - https://smiggiddy.github.io/heimdall-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-20T20:56:39.847764954-04:00"
+generated: "2023-04-20T21:17:32.759559338-04:00"
