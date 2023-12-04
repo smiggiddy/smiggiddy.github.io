@@ -3,7 +3,7 @@ entries:
   code-server:
   - apiVersion: v2
     appVersion: 4.16.1
-    created: "2023-10-27T07:37:56.135949841-04:00"
+    created: "2023-12-04T00:18:59.199930296-05:00"
     description: A Helm chart for coder/code-server
     digest: c0ad412d896b8d9cdb444b3db93d02b25ede9f10fd42ee3c0d838bd966cfb1cb
     name: code-server
@@ -14,7 +14,7 @@ entries:
   coffee_shop:
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.136591975-04:00"
+    created: "2023-12-04T00:18:59.200918959-05:00"
     description: A Coffee Shop helm chart for Kubernetes
     digest: 95e35d2e0dfaac49b77d37099f4c0d9075b2e20f845c778057ae0f208054e6fe
     name: coffee_shop
@@ -24,7 +24,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.136273984-04:00"
+    created: "2023-12-04T00:18:59.200241042-05:00"
     description: A Coffee Shop helm chart for Kubernetes
     digest: ef68fea5836af03df24d494440d03442806573113a94959e6197ff3706e38a0f
     name: coffee_shop
@@ -32,61 +32,10 @@ entries:
     urls:
     - https://smiggiddy.github.io/coffee_shop-0.1.8.tgz
     version: 0.1.8
-  coffeeshop:
-  - apiVersion: v2
-    appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.139330831-04:00"
-    description: A Coffee Shop helm chart for Kubernetes
-    digest: 9d631c9868ede2a689055856587f467df0e12dac1544e9631e4f9e67fd6bb95d
-    name: coffeeshop
-    type: application
-    urls:
-    - https://smiggiddy.github.io/coffeeshop-0.1.14.tgz
-    version: 0.1.14
-  - apiVersion: v2
-    appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.139015598-04:00"
-    description: A Coffee Shop helm chart for Kubernetes
-    digest: 8b2d6b03a5fadd76ed54ab1b47c30f00d9efe6a94daaa8dae5ffc9d3aeca3665
-    name: coffeeshop
-    type: application
-    urls:
-    - https://smiggiddy.github.io/coffeeshop-0.1.13.tgz
-    version: 0.1.13
-  - apiVersion: v2
-    appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.138699997-04:00"
-    description: A Coffee Shop helm chart for Kubernetes
-    digest: e2cd4ae5b3ea016c13ef10c55e901ed23986744e928650d06dcb6c191da9ec40
-    name: coffeeshop
-    type: application
-    urls:
-    - https://smiggiddy.github.io/coffeeshop-0.1.12.tgz
-    version: 0.1.12
-  - apiVersion: v2
-    appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.138374317-04:00"
-    description: A Coffee Shop helm chart for Kubernetes
-    digest: 5b177199f03b1e7cbf43fa689df49a2807ba2e9328a3cd17d17b3bb8e29493d5
-    name: coffeeshop
-    type: application
-    urls:
-    - https://smiggiddy.github.io/coffeeshop-0.1.11.tgz
-    version: 0.1.11
-  - apiVersion: v2
-    appVersion: 0.10.0
-    created: "2023-10-27T07:37:56.137963282-04:00"
-    description: A Coffee Shop helm chart for Kubernetes
-    digest: e6627e4ba11edf4a37abc8446b5dbed266840397ea09a1c96828b84c307531fd
-    name: coffeeshop
-    type: application
-    urls:
-    - https://smiggiddy.github.io/coffeeshop-0.1.10.tgz
-    version: 0.1.10
   heimdall:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.142789484-04:00"
+    created: "2023-12-04T00:18:59.202392917-05:00"
     description: A Helm chart for Kubernetes
     digest: 2b189a5f2d953ef4bedaa615d5a8a19a2d5311731ac6325932de967a68bdae77
     name: heimdall
@@ -96,7 +45,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.142542021-04:00"
+    created: "2023-12-04T00:18:59.20204441-05:00"
     description: A Helm chart for Kubernetes
     digest: 9f7ef833ff11aae07f9341df2fcd5e7811a66980f100c1d0cf815374f76c3882
     name: heimdall
@@ -106,7 +55,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.142294332-04:00"
+    created: "2023-12-04T00:18:59.201681506-05:00"
     description: A Helm chart for Kubernetes
     digest: c1eb801ac758992bcaa816315b94f8ca3a84b488f2f2e2add8ec9d40e38feba6
     name: heimdall
@@ -116,7 +65,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.142037392-04:00"
+    created: "2023-12-04T00:18:59.201326457-05:00"
     description: A Helm chart for Kubernetes
     digest: 01f8877a2bfb0175f2b61ddbf599251167d52005f3df31a6efefbd0c78329864
     name: heimdall
@@ -124,70 +73,10 @@ entries:
     urls:
     - https://smiggiddy.github.io/heimdall-0.2.6.tgz
     version: 0.2.6
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.141687485-04:00"
-    description: A Helm chart for Kubernetes
-    digest: 3e62e32c3caffca334fe8ff7f223ed90153213bde262063900d9abb9873de4e4
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.5.tgz
-    version: 0.2.5
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.141174475-04:00"
-    description: A Helm chart for Kubernetes
-    digest: 682c9dea601c6f7323fd083dcb62f10162b28fb8451c5039bea1bc23550f5bfc
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.4.tgz
-    version: 0.2.4
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.140788052-04:00"
-    description: A Helm chart for Kubernetes
-    digest: 5e4de4bca7a81070bc41f525d3852fc8fd88d7a3d33ccf8c97f55daece1517b2
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.3.tgz
-    version: 0.2.3
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.14040918-04:00"
-    description: A Helm chart for Kubernetes
-    digest: d907fc5b8cb495af6926524dc490cb6e1cc590131f0da222fa928efd4233488b
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.2.tgz
-    version: 0.2.2
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.140049634-04:00"
-    description: A Helm chart for Kubernetes
-    digest: b76c75d17f8e614646ec038faa5410fc6d1ddf8b58c934d384007a31221e379e
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.1.tgz
-    version: 0.2.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-10-27T07:37:56.139684571-04:00"
-    description: A Helm chart for Kubernetes
-    digest: e7ab6eb956e450e43d190f284c4c4964e937b0ab8c52e77fd87c53301fb32b3b
-    name: heimdall
-    type: application
-    urls:
-    - https://smiggiddy.github.io/heimdall-0.2.0.tgz
-    version: 0.2.0
   it-tools:
   - apiVersion: v2
     appVersion: 2023.5.14-77f2efc
-    created: "2023-10-27T07:37:56.143008676-04:00"
+    created: "2023-12-04T00:18:59.202706047-05:00"
     description: A Helm chart for Kubernetes
     digest: 4f9643cd88da4476e99fdac88ff3711d7275482a67ba403a30565289c17ffd00
     name: it-tools
@@ -197,8 +86,18 @@ entries:
     version: 0.1.0
   uptime-kuma:
   - apiVersion: v2
+    appVersion: 1.23.8
+    created: "2023-12-04T00:18:59.203653433-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 7eb21f1f8bf87df9b6161c62452aeaaedd92772179c728fc20cdc2e034919e45
+    name: uptime-kuma
+    type: application
+    urls:
+    - https://smiggiddy.github.io/uptime-kuma-0.0.14.tgz
+    version: 0.0.14
+  - apiVersion: v2
     appVersion: 1.23.3
-    created: "2023-10-27T07:37:56.143644719-04:00"
+    created: "2023-12-04T00:18:59.203432086-05:00"
     description: A Helm chart for Kubernetes
     digest: ca0056b939252d88d14cb613238fb6c1ae66a80ecdd2efc08a238500a36ab0da
     name: uptime-kuma
@@ -208,7 +107,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 1.23.1
-    created: "2023-10-27T07:37:56.143378546-04:00"
+    created: "2023-12-04T00:18:59.203016803-05:00"
     description: A Helm chart for Kubernetes
     digest: cd60f44d93b53973a9a5a0be8cfd034a084aa6cb7fe98d434fbac2f4efe0f1ec
     name: uptime-kuma
@@ -216,4 +115,4 @@ entries:
     urls:
     - https://smiggiddy.github.io/uptime-kuma-0.0.12.tgz
     version: 0.0.12
-generated: "2023-10-27T07:37:56.135384522-04:00"
+generated: "2023-12-04T00:18:59.198192521-05:00"
