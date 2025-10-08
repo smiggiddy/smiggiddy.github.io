@@ -3,7 +3,7 @@ entries:
   code-server:
   - apiVersion: v2
     appVersion: 4.21.2
-    created: "2024-07-26T06:00:02.639796146-04:00"
+    created: "2025-10-08T05:53:02.246452385-04:00"
     description: A Helm chart for coder/code-server
     digest: 777deb522f04524501698876657bbdd97c4dee7ace2ea1e8b5fe672ab58ef795
     name: code-server
@@ -13,7 +13,7 @@ entries:
     version: 3.17.2
   - apiVersion: v2
     appVersion: 4.16.1
-    created: "2024-07-26T06:00:02.638891881-04:00"
+    created: "2025-10-08T05:53:02.245062949-04:00"
     description: A Helm chart for coder/code-server
     digest: c0ad412d896b8d9cdb444b3db93d02b25ede9f10fd42ee3c0d838bd966cfb1cb
     name: code-server
@@ -24,7 +24,7 @@ entries:
   coffee_shop:
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2024-07-26T06:00:02.640986177-04:00"
+    created: "2025-10-08T05:53:02.247673841-04:00"
     description: A Coffee Shop helm chart for Kubernetes
     digest: 95e35d2e0dfaac49b77d37099f4c0d9075b2e20f845c778057ae0f208054e6fe
     name: coffee_shop
@@ -34,7 +34,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.10.0
-    created: "2024-07-26T06:00:02.640410708-04:00"
+    created: "2025-10-08T05:53:02.247140355-04:00"
     description: A Coffee Shop helm chart for Kubernetes
     digest: ef68fea5836af03df24d494440d03442806573113a94959e6197ff3706e38a0f
     name: coffee_shop
@@ -45,7 +45,7 @@ entries:
   heimdall:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T06:00:02.646509102-04:00"
+    created: "2025-10-08T05:53:02.250483463-04:00"
     description: A Helm chart for Kubernetes
     digest: 2b189a5f2d953ef4bedaa615d5a8a19a2d5311731ac6325932de967a68bdae77
     name: heimdall
@@ -55,7 +55,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T06:00:02.645716145-04:00"
+    created: "2025-10-08T05:53:02.249814859-04:00"
     description: A Helm chart for Kubernetes
     digest: 9f7ef833ff11aae07f9341df2fcd5e7811a66980f100c1d0cf815374f76c3882
     name: heimdall
@@ -65,7 +65,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T06:00:02.644900196-04:00"
+    created: "2025-10-08T05:53:02.249196061-04:00"
     description: A Helm chart for Kubernetes
     digest: c1eb801ac758992bcaa816315b94f8ca3a84b488f2f2e2add8ec9d40e38feba6
     name: heimdall
@@ -75,7 +75,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-26T06:00:02.643791878-04:00"
+    created: "2025-10-08T05:53:02.248447745-04:00"
     description: A Helm chart for Kubernetes
     digest: 01f8877a2bfb0175f2b61ddbf599251167d52005f3df31a6efefbd0c78329864
     name: heimdall
@@ -86,7 +86,7 @@ entries:
   it-tools:
   - apiVersion: v2
     appVersion: 2023.5.14-77f2efc
-    created: "2024-07-26T06:00:02.647147228-04:00"
+    created: "2025-10-08T05:53:02.251157947-04:00"
     description: A Helm chart for Kubernetes
     digest: 4f9643cd88da4476e99fdac88ff3711d7275482a67ba403a30565289c17ffd00
     name: it-tools
@@ -97,7 +97,7 @@ entries:
   stirling-pdf:
   - apiVersion: v2
     appVersion: 0.20.1
-    created: "2024-07-26T06:00:02.656937303-04:00"
+    created: "2025-10-08T05:53:02.259021554-04:00"
     dependencies:
     - name: common
       repository: http://bjw-s.github.io/helm-charts/
@@ -114,7 +114,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.20.1
-    created: "2024-07-26T06:00:02.651897735-04:00"
+    created: "2025-10-08T05:53:02.25434127-04:00"
     dependencies:
     - name: common
       repository: http://bjw-s.github.io/helm-charts/
@@ -132,7 +132,17 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: 1.23.13
-    created: "2024-07-26T06:00:02.658495254-04:00"
+    created: "2025-10-08T05:53:02.261045869-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 71c157b49715cf42c85b5d6d1dbcaf05972da479fb234de63f1b713b52a7df8c
+    name: uptime-kuma
+    type: application
+    urls:
+    - https://smiggiddy.github.io/uptime-kuma-0.0.19.tgz
+    version: 0.0.19
+  - apiVersion: v2
+    appVersion: 1.23.13
+    created: "2025-10-08T05:53:02.260562619-04:00"
     description: A Helm chart for Kubernetes
     digest: eabfb42bee9fba4273893ba560252ed979b30a4a214aeba5a6f5c0d4de859171
     name: uptime-kuma
@@ -142,7 +152,7 @@ entries:
     version: 0.0.18
   - apiVersion: v2
     appVersion: 1.23.13
-    created: "2024-07-26T06:00:02.65776212-04:00"
+    created: "2025-10-08T05:53:02.259816097-04:00"
     description: A Helm chart for Kubernetes
     digest: 216f250a897bf4e43e3795225d58df79f3e9aa0287bf8830f5ee6ca2a2ab6106
     name: uptime-kuma
@@ -150,4 +160,4 @@ entries:
     urls:
     - https://smiggiddy.github.io/uptime-kuma-0.0.17.tgz
     version: 0.0.17
-generated: "2024-07-26T06:00:02.637759568-04:00"
+generated: "2025-10-08T05:53:02.242252155-04:00"
